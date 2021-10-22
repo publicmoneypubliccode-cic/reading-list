@@ -10,12 +10,12 @@ This list helps you form a foundational understanding of what we are doing at PM
 A genius work of educational satire by Dan Sheldon and colleagues, detailing how governments own culture seem to ensure they always buy terrible IT systems from terrible suppliers, and will continue doing so until someone changes the culture.
 https://medium.com/@sheldonline/the-government-it-self-harm-playbook-6537d3920f65
 
-### Larry Weed's 1971 Internal Medicine Grand Rounds
-Well before the advent of serious health technology, Larry explains the health care record and its importance to the practice of medicine. Although much has changed
+### Larry Weed's 1971 Internal Medicine Grand Rounds - Problem-Oriented Medical Records
+Well before the advent of serious health technology, Larry explains the Problem-Oriented health care record and its importance to the practice of medicine. Although much has changed since 1971 in terms of the technology, you only have to watch this video to know how much is wrong with our modern records and the reason we need to build problem-orientation into our records.
 https://www.youtube.com/watch?v=qMsPXSMTpFI
 
 ### Jerry Harvey and the Abilene Paradox
-Explains why sensible people acting in groups can often inadvertently agree to courses of action which are against all of their interests, such as continuing to buy the same
+Jerry describes in comedic detail why sensible people acting in groups can often inadvertently agree to courses of action which are against all of their interests, such as repeatedly procuring bad technology even when we know our procurement systems always procure bad technology. The first 15-20 minutes are all you really need to watch, but later Jerry applies the Abilene concept to multiple real-world work and life scenarios.
 https://www.youtube.com/watch?v=uFQ-ukyvAMk
 
 ### 'Designing IT to make Healthcare Safer by Harold Thimbleby
